@@ -66,7 +66,6 @@
 
 ## 📊 GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshifariya042&show_icons=true&theme=github_dark"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshifariya042&layout=compact&theme=github_dark"/>
 
