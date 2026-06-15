@@ -78,12 +78,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshifariya042&theme=github-dark"/>
-
----
-
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/anshifa-riya-950b64303)
