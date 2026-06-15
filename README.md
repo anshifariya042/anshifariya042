@@ -72,11 +72,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=anshifariya042&theme=github-dark&hide_border=false"/>
-
----
 
 ## 🌐 Connect With Me
 
